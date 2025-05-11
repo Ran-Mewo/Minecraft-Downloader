@@ -17,4 +17,5 @@ module net.hycrafthd.minecraft_downloader {
 	requires org.apache.logging.log4j.iostreams;
 	
 	requires org.tukaani.xz;
+    requires java.xml;
 }
